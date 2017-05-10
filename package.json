@@ -1,14 +1,14 @@
 {
-  "name": "one-dark-syntax",
+  "name": "cereske-syntax",
   "theme": "syntax",
   "version": "1.7.1",
-  "description": "A dark syntax theme",
+  "description": "cscereske's personal theme forked from the One Dark Atom theme",
   "keywords": [
     "dark",
     "blue",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/cscereske/atom-theme-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
